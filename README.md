@@ -19,8 +19,8 @@ First, get the code onto your machine.
 
 Clone the project (replace with your repository URL)
 
-`git clone https://github.com/Chetax/ai_story_teller.git'`  
-`cd ai_story_teller`
+`git clone https://github.com/VishvajitJadhav/AI_Storyteller.git'`  
+`cd AI_Storyteller`
 
 Create a virtual environment
 
