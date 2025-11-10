@@ -1,0 +1,6 @@
+google-genai
+google-generativeai
+gTTS
+python-dotenv
+Pillow
+streamlit
